@@ -1,0 +1,84 @@
+/*The MIT License (MIT)
+Copyright (c) 2011-2016 Twitter, Inc.*/
+
+.header-image {
+	width: 150px;
+	height: 150px;
+	padding: 20px 20px;
+}
+
+.line-separator {
+	height: 3px;
+	background: #717171;
+	border-bottom: 1px solid #313030;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.jumbotron {
+	background: url("images/jumbotron.png") ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 400px;
+}
+
+.works {
+	margin: 0px 0px;
+}
+
+.work {
+	position: relative;
+	margin: 10px 10px;
+}
+
+.work img {
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.work a {
+	position: relative;
+}
+
+.work-content {
+	text-align: center;
+}
+
+.side-bar {
+	margin-top: 180px;
+	margin-bottom: 500px;
+	margin-left: 100px;
+	margin-right: 25px;
+}
+
+.side-bar-content {
+	width: 75px;
+	height: 75px;
+}
+
+.side-bar-content {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 60px;
+}
+
+.side-bar #c1 {
+	background-color: #ffa500;
+}
+
+.side-bar #c2 {
+	background-color: #BEBEBE;
+}
+
+.side-bar #c3 {
+	background-color: #264d00;
+}
+
+.headline .title {
+	float: right;
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
